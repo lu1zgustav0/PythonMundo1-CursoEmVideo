@@ -2,3 +2,5 @@
 Materia e exercícios do curso Python Mundo 1 do Curso em Vídeo
 
 O curso contém 35 exercícios.
+
+Foi utilizado o Pycharm durante o curso.
